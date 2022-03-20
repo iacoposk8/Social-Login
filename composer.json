@@ -1,0 +1,5 @@
+{
+    "require": {
+        "league/oauth2-instagram": "^3.0"
+    }
+}
