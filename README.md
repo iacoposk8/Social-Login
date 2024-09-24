@@ -1,3 +1,4 @@
+[![Support me](https://iacoposk8.github.io/img/buymepizza.png)](https://buymeacoffee.com/iacoposk8)
 
 # Social Login
 A php library to quickly integrate a registration and login page via email, facebook and google.
